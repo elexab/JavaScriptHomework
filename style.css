@@ -1,0 +1,30 @@
+header, footer{
+    background-color: lightgray;
+    text-align: center;
+    height: 100px;
+    width: 100%;
+    font-size: 26pt;
+    padding: 20px;
+    border-style: solid;
+    border-color:gray;
+    font-family: 'Indie Flower', cursive;
+    color: white;
+}
+
+.card {
+    border-style: solid;
+    border-color: gray;
+    font-family: 'Indie Flower', cursive;
+    display:inline-block;
+    margin-top: 20px;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 10px;
+}
+body{
+    background-color: rosybrown;
+}
+
+
+
+  
